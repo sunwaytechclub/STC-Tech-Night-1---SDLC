@@ -14,8 +14,18 @@ Without further ado, let's get started!
 
 ## Table of content 📄
 
-1. Software Development Life Cycle
-2. Waterfall Model
-3. Agile Models
-4. Scrum
-5. Kanban
+1. [Software Development Life Cycle](#sdlc)
+2. [Waterfall Model](#waterfall)
+3. [Agile Models](#agile)
+4. [Scrum](#scrum)
+5. [Kanban](#kanban)
+
+## Software Development Life Cycle <a name="sdlc"/>
+
+## Waterfall Model <a name="waterfall"/>
+
+## Agile Models <a name="agile"/>
+
+## Scrum <a name="scrum"/>
+
+## Kanban <a name="kanban"/>
