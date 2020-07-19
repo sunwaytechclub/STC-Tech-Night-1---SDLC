@@ -1,8 +1,8 @@
-# YOUR TITLE
+# SDLC - Software Development Life Cycle
 
-Welcome to <YOUR TITLE> 🥳!
+Welcome to SDLC Sharing Session 🥳!
 
-Here, we will learn about <A SHORT DESCRIPTION OF THE OUTCOME>
+Here, we will learn about Software Development Life Cycle and a few models of Software Development Methodologies
  
 Before we jump straight into the workshops, allow me to introduce ourself, do watch this short 1 minute video to know more 🎇!
 
@@ -14,4 +14,8 @@ Without further ado, let's get started!
 
 ## Table of content 📄
 
-1. Bla bla
+1. Software Development Life Cycle
+2. Waterfall Model
+3. Agile Models
+4. Scrum
+5. Kanban
