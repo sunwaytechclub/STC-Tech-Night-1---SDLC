@@ -2,7 +2,7 @@
 
 Welcome to SDLC Sharing Session 🥳!
 
-Here, we will learn about Software Development Life Cycle and a few models of Software Development Methodologies
+Here, we will learn about Software Development Life Cycle (SDLC) and a few models of Software Development Methodologies
  
 Before we jump straight into the workshops, allow me to introduce ourself, do watch this short 1 minute video to know more 🎇!
 
