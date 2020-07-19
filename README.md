@@ -1,4 +1,4 @@
-# SDLC - Software Development Life Cycle
+# STC Tech Night #1 - SDLC
 
 Welcome to SDLC Sharing Session 🥳!
 
