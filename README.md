@@ -4,7 +4,7 @@ Welcome to STC Tech Night #1 🥳!
 
 Here, we will learn about Software Development Life Cycle (SDLC) and a few models of Software Development Methodologies
  
-Before we jump straight into the workshops, allow me to introduce ourself, do watch this short 1 minute video to know more 🎇!
+Before we jump straight into the session, allow me to introduce ourself, do watch this short 1 minute video to know more 🎇!
 
 [![intro video](/assets/banner.png)](https://www.youtube.com/watch?v=aBNvCoJP-ag)
 
