@@ -23,11 +23,15 @@ The slides for this session is [here](https://slides.com/rainchai/deck-e89862), 
 5. [Kanban](#kanban)
 
 ## Software Development Life Cycle <a name="sdlc"/>
-![waterfall model](/assets/waterfallmodel.png)
+
+
 ## Waterfall Model <a name="waterfall"/>
+![waterfall model](/assets/waterfallmodel.png)
 
 ## Agile Models <a name="agile"/>
 
+
 ## Scrum <a name="scrum"/>
+
 
 ## Kanban <a name="kanban"/>
