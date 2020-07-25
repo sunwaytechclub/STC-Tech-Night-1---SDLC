@@ -10,7 +10,7 @@ Before we jump straight into the session, allow me to introduce ourself, do watc
 
 Without further ado, let's get started!
 
-The slides for this session is [here](https://slides.com/rainchai/deck-e89862), alternatively, you can download it [here](/slides.html)
+The slides for this session is [here](https://slides.com/deen-1/sdlc-software-developement-life-cycle), alternatively, you can download it [here](/slides.html)
 
 <br>
 
@@ -23,7 +23,10 @@ The slides for this session is [here](https://slides.com/rainchai/deck-e89862), 
 5. [Scrum](#scrum)
 
 ## Software Development Life Cycle <a name="sdlc"/>
-
+	
+* A framework that defines a sequence of steps in the software development process
+* Serves as a guidance for Software Developers
+* Involves 6 steps in total
 
 ## Waterfall Model <a name="waterfall"/>
 ![waterfall model](/assets/waterfallmodel.png)
@@ -31,7 +34,7 @@ The slides for this session is [here](https://slides.com/rainchai/deck-e89862), 
 ## Agile Models <a name="agile"/>
 
 
-## Scrum <a name="scrum"/>
-
-
 ## Kanban <a name="kanban"/>
+
+
+## Scrum <a name="scrum"/>
