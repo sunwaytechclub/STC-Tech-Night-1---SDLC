@@ -19,8 +19,8 @@ The slides for this session is [here](https://slides.com/rainchai/deck-e89862), 
 1. [Software Development Life Cycle](#sdlc)
 2. [Waterfall Model](#waterfall)
 3. [Agile Models](#agile)
-4. [Scrum](#scrum)
-5. [Kanban](#kanban)
+4. [Kanban](#kanban)
+5. [Scrum](#scrum)
 
 ## Software Development Life Cycle <a name="sdlc"/>
 
