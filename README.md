@@ -56,6 +56,34 @@ The slides for this session is [here](https://slides.com/deen-1/sdlc-software-de
 
 ## Waterfall Model <a name="waterfall"/>
 ![waterfall model](/assets/waterfallmodel.png)
+The Waterfall Model is the Oldest Software Development Model. It is also referred to as a linear-sequential life cycle model. In a waterfall model, each phase must be completed before the next phase can begin and no backtracking in the phases.
+
+### 5 steps in total
+* Requirements definition
+* System and software design
+* Implementation and unit testing
+* Integration and system testing
+* Operation and maintenance
+* [More information](https://www.tutorialspoint.com/sdlc/sdlc_waterfall_model.htm)
+
+### Application
+* When requirements are very well documented
+* The project is short
+  * Assignments are typically the perfect target to implement  the Waterfall model because
+      * Short-termed (2 weeks - 1 month)
+      * Fixed system requirements prepared by lecturer
+      * Documentation are well-written
+      * Organised operation
+      * Rare cases of changes
+
+### Disadvantages
+* Unsuited in real-life projects like freelance or company projects
+* Hard to accomdate to changing requirements which leads to 
+  * Exceeding planned cost
+  * Project failure
+  * Slower development
+* Not usable and no review on software until the end of process
+* Not practical to use in the current developing industry
 
 ## Agile Models <a name="agile"/>
 
