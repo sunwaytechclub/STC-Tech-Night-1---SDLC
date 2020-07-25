@@ -117,7 +117,7 @@ Core Practices
 [More Information](https://www.digite.com/kanban/what-is-kanban/)
 
 ## Scrum <a name="scrum"/>
-![scrum model](/assets/scrummodel.png)
+![scrum model](/assets/scrummodel.png)  
 Scrum is an agile project management methodology or framework used primarily for software development projects with the goal of delivering new software capability every 2-4 weeks.
 
 ### Terms
